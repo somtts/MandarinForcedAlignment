@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cuRecord>
+  <section name="Video">
+    <entry name="FrameRate">25</entry>
+    <entry name="Width">640</entry>
+    <entry name="Height">480</entry>
+  </section>
+  <section name="Audio">
+    <entry name="SamplingRate">16000</entry>
+    <entry name="SampleSize">16</entry>
+    <entry name="Channels">1</entry>
+  </section>
+  <section name="TextPrompts">
+    <entry name="SoundLibPath">C:\CUR\Data\Sndlib\</entry>
+    <entry name="SoundLibName">carmen-speed</entry>
+    <entry name="InputPath">C:\CUR\Data\Putonghua\Text\</entry>
+    <entry name="VideoOutputPath">C:\CUR\Data\Putonghua\OutputVideo\</entry>
+    <entry name="AudioOutputPath">C:\CUR\Data\Putonghua\OutputAudio\</entry>
+    <entry name="SentenceFile">sentence.txt</entry>
+    <entry name="PronounceFile">pinyin.txt</entry>
+    <entry name="CurrentLine">171</entry>
+    <entry name="TotalLine">5442</entry>
+    <entry name="LinePrefix">Pth_</entry>
+    <entry name="LineIndexLength">5</entry>
+  </section>
+</cuRecord>

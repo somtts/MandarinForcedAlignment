@@ -1,22 +1,19 @@
 #!/usr/bin/perl
 #
 
-@array;
-$index = 1;
+#@array; this array is redundant
+#$index = 1;
 @fileNames = glob '../wave/*.wav';
-for(@fileNames)
+for(@arrWavFileNames)
 {
 	s/..\/wave\///;
 	s/wav/lab/;
 	$_ = "\"*/".$_."\"";
-	$array[$index] = $_;
-	$index++;
+	#$array[$index] = $_;
+	#$index++;
 }
 
-print $array[1];print "\n";
-
 print "dos2unix...\n";
-#system("dos2unix yu_handel.txt");
 
 open READ,"yu_handel.txt" or die "Erroe in line 21, cannot open file ";
 @input = <READ>;
@@ -25,16 +22,21 @@ close READ;
 open WRITE,'>yu_rel.txt';
 print WRITE "#!MLF!#\n";
 
-$index = 1;
+$indexOfArrFileNames = 0;
 for(@input)
 {
 	my @arrSplit = split /\s/;
-	print WRITE $array[$index];print WRITE "\n";
+	print WRITE $arrWavFileNames[$indexOfArrFileNames];print WRITE "\n";
 	$index++;	
-	for($k = 0;$k < $#arrSplit; $k++)
+	#for($k = 0;$k <= $#arrSplit; $k++)
+	#{
+	#	print WRITE $arrSplit[$k];print WRITE "\n";
+	#}
+	for(@arrSplit)
 	{
-		print WRITE $arrSplit[$k];print WRITE "\n";
+		print WRITE $_;print WRITE "\n";	
 	}
+
 	print WRITE ".";print WRITE "\n";
 }
 

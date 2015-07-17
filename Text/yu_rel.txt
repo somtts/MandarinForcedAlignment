@@ -22,7 +22,7 @@ ya2
 shi2
 ke4
 .
-"*/Pth_00002.lab"
+"*/Pth_00001.lab"
 chuan4
 xiu1
 de5
@@ -46,7 +46,7 @@ mei2
 you3
 shi4
 .
-"*/Pth_00003.lab"
+"*/Pth_00001.lab"
 ta1
 shuo1
 ta1
@@ -66,7 +66,7 @@ ku5
 xiao4
 xiao4
 .
-"*/Pth_00004.lab"
+"*/Pth_00001.lab"
 zhong1
 guo2
 he2
@@ -87,7 +87,7 @@ he2
 bo1
 xue1
 .
-"*/Pth_00005.lab"
+"*/Pth_00001.lab"
 kui2
 bei3
 ke4
@@ -106,7 +106,7 @@ jiang3
 fa2
 yu3
 .
-"*/Pth_00006.lab"
+"*/Pth_00001.lab"
 guan2
 zhang3
 hai2
@@ -127,7 +127,7 @@ de5
 yuan2
 fen4
 .
-"*/Pth_00007.lab"
+"*/Pth_00001.lab"
 jie1
 lu4
 xi1
@@ -147,7 +147,7 @@ yu2
 ye3
 man2
 .
-"*/Pth_00008.lab"
+"*/Pth_00001.lab"
 qin2
 lao2
 zhi4
@@ -173,7 +173,7 @@ hua2
 cui3
 can4
 .
-"*/Pth_00009.lab"
+"*/Pth_00001.lab"
 da4
 duo1
 shu4
@@ -195,7 +195,7 @@ he2
 ni2
 ning4
 .
-"*/Pth_00010.lab"
+"*/Pth_00001.lab"
 jian4
 she4
 yi2
@@ -214,7 +214,7 @@ yin1
 guo1
 leng2
 .
-"*/Pth_00011.lab"
+"*/Pth_00001.lab"
 ta1
 men5
 mei2
@@ -235,7 +235,7 @@ yao4
 tiao4
 cao2
 .
-"*/Pth_00012.lab"
+"*/Pth_00001.lab"
 shan1
 dong1
 sheng2
@@ -256,7 +256,7 @@ huan4
 can2
 ji2
 .
-"*/Pth_00013.lab"
+"*/Pth_00001.lab"
 zheng4
 ru2
 lao3
@@ -277,7 +277,7 @@ hong2
 fei1
 kua4
 .
-"*/Pth_00014.lab"
+"*/Pth_00001.lab"
 zui4
 yin3
 ren2
@@ -296,7 +296,7 @@ he2
 ben1
 teng2
 .
-"*/Pth_00015.lab"
+"*/Pth_00001.lab"
 suo1
 tou2
 de5
@@ -316,7 +316,7 @@ zui3
 de5
 ha2
 .
-"*/Pth_00016.lab"
+"*/Pth_00001.lab"
 gei2
 sheng3
 dian4
@@ -335,7 +335,7 @@ zhong4
 leng2
 nuan3
 .
-"*/Pth_00017.lab"
+"*/Pth_00001.lab"
 ye2
 xu3
 yin1
@@ -356,7 +356,7 @@ de5
 gou4
 qiang4
 .
-"*/Pth_00018.lab"
+"*/Pth_00001.lab"
 gong4
 bao1
 kuo4
@@ -376,7 +376,7 @@ er4
 bai2
 pi3
 .
-"*/Pth_00019.lab"
+"*/Pth_00001.lab"
 ta1
 hai2
 deng1
@@ -397,7 +397,7 @@ shi1
 zhou1
 jiong3
 .
-"*/Pth_00020.lab"
+"*/Pth_00001.lab"
 bian4
 cheng2
 mo4
@@ -419,7 +419,7 @@ hu2
 yao1
 he5
 .
-"*/Pth_00021.lab"
+"*/Pth_00001.lab"
 zou4
 xiang3
 le5
@@ -439,7 +439,7 @@ qi4
 zhi1
 ge1
 .
-"*/Pth_00022.lab"
+"*/Pth_00001.lab"
 man3
 zuo4
 jie1
@@ -460,7 +460,7 @@ da4
 cang1
 ying5
 .
-"*/Pth_00023.lab"
+"*/Pth_00001.lab"
 dian2
 shui3
 cheng2
@@ -479,7 +479,7 @@ mo4
 xin1
 yuan2
 .
-"*/Pth_00024.lab"
+"*/Pth_00001.lab"
 ta1
 de5
 shou3
@@ -499,7 +499,7 @@ cai2
 mian4
 shi4
 .
-"*/Pth_00025.lab"
+"*/Pth_00001.lab"
 xian3
 shi4
 chu1
@@ -525,7 +525,7 @@ yu3
 chao2
 feng3
 .
-"*/Pth_00026.lab"
+"*/Pth_00001.lab"
 zhe4
 wei4
 wu2
@@ -546,7 +546,7 @@ lei2
 dong4
 zuo4
 .
-"*/Pth_00027.lab"
+"*/Pth_00001.lab"
 shi4
 zhang3
 guan1
@@ -568,7 +568,7 @@ zher4
 ling3
 le5
 .
-"*/Pth_00028.lab"
+"*/Pth_00001.lab"
 da4
 jia1
 bian4
@@ -592,7 +592,7 @@ qiao2
 gong1
 di4
 .
-"*/Pth_00029.lab"
+"*/Pth_00001.lab"
 yu2
 wen2
 hua2
@@ -611,7 +611,7 @@ qiao2
 da3
 ban5
 .
-"*/Pth_00030.lab"
+"*/Pth_00001.lab"
 zhong1
 guo2
 ren2
@@ -636,7 +636,7 @@ chun3
 shi4
 le5
 .
-"*/Pth_00031.lab"
+"*/Pth_00001.lab"
 ai4
 hei1
 ai4
@@ -657,7 +657,7 @@ de5
 yin1
 diao4
 .
-"*/Pth_00032.lab"
+"*/Pth_00001.lab"
 guang1
 zhe5
 ji3
@@ -680,7 +680,7 @@ se4
 ni2
 jiang1
 .
-"*/Pth_00033.lab"
+"*/Pth_00001.lab"
 qiang1
 zhi1
 he2
@@ -701,7 +701,7 @@ fa1
 zhan3
 de5
 .
-"*/Pth_00034.lab"
+"*/Pth_00001.lab"
 mao1
 de5
 jie2
@@ -721,7 +721,7 @@ dao4
 yong2
 yuan3
 .
-"*/Pth_00035.lab"
+"*/Pth_00001.lab"
 zhuo1
 shang4
 bai2
@@ -740,7 +740,7 @@ zuo3
 liao4
 ping2
 .
-"*/Pth_00036.lab"
+"*/Pth_00001.lab"
 mo4
 si1
 ke1
@@ -763,7 +763,7 @@ pan4
 xiao3
 qi4
 .
-"*/Pth_00037.lab"
+"*/Pth_00001.lab"
 chuo4
 hao4
 chai2
@@ -784,7 +784,7 @@ sang1
 qie4
 si1
 .
-"*/Pth_00038.lab"
+"*/Pth_00001.lab"
 gang1
 zheng4
 bu4
@@ -805,7 +805,7 @@ yi4
 xin4
 nian4
 .
-"*/Pth_00039.lab"
+"*/Pth_00001.lab"
 ta1
 yi4
 zhi1
@@ -825,7 +825,7 @@ de5
 bo2
 zi5
 .
-"*/Pth_00040.lab"
+"*/Pth_00001.lab"
 liao3
 jie2
 le5
@@ -849,7 +849,7 @@ shi3
 gong1
 an4
 .
-"*/Pth_00041.lab"
+"*/Pth_00001.lab"
 jin2
 guan3
 shao2
@@ -872,7 +872,7 @@ pang2
 tui4
 qu4
 .
-"*/Pth_00042.lab"
+"*/Pth_00001.lab"
 wei4
 sheng1
 bu4
@@ -895,7 +895,7 @@ zhu3
 mao2
 lv2
 .
-"*/Pth_00043.lab"
+"*/Pth_00001.lab"
 huan3
 he2
 le5
@@ -918,7 +918,7 @@ zhang1
 guan1
 xi5
 .
-"*/Pth_00044.lab"
+"*/Pth_00001.lab"
 hai2
 you3
 de5
@@ -937,7 +937,7 @@ xing2
 li5
 de5
 .
-"*/Pth_00045.lab"
+"*/Pth_00001.lab"
 piao1
 qie4
 ta1
@@ -962,7 +962,7 @@ lv4
 ze2
 ren4
 .
-"*/Pth_00046.lab"
+"*/Pth_00001.lab"
 li2
 wei3
 piao2
@@ -984,7 +984,7 @@ wan4
 gong1
 jin1
 .
-"*/Pth_00047.lab"
+"*/Pth_00001.lab"
 yi3
 ji2
 yan2
@@ -1010,7 +1010,7 @@ quan1
 hua1
 lan2
 .
-"*/Pth_00048.lab"
+"*/Pth_00001.lab"
 cai1
 zhong4
 ba1
@@ -1033,7 +1033,7 @@ wan4
 duo1
 fen4
 .
-"*/Pth_00049.lab"
+"*/Pth_00001.lab"
 zhong1
 guo2
 ren2
@@ -1058,7 +1058,7 @@ he2
 kai1
 pi4
 .
-"*/Pth_00050.lab"
+"*/Pth_00001.lab"
 po1
 mo4
 hui1
@@ -1079,7 +1079,7 @@ tan2
 ju4
 bo4
 .
-"*/Pth_00051.lab"
+"*/Pth_00001.lab"
 zheng4
 ru2
 lu3
@@ -1101,7 +1101,7 @@ de5
 yu2
 chun3
 .
-"*/Pth_00052.lab"
+"*/Pth_00001.lab"
 han3
 sheng1
 shuai1
@@ -1126,7 +1126,7 @@ wai4
 qing1
 xi1
 .
-"*/Pth_00053.lab"
+"*/Pth_00001.lab"
 yao4
 jian2
 shao3
@@ -1147,7 +1147,7 @@ de5
 xian4
 xiang5
 .
-"*/Pth_00054.lab"
+"*/Pth_00001.lab"
 qie1
 duan4
 le5
@@ -1166,7 +1166,7 @@ qiu2
 xian4
 lu4
 .
-"*/Pth_00055.lab"
+"*/Pth_00001.lab"
 qian2
 shao4
 bian1
@@ -1190,7 +1190,7 @@ wu2
 ju4
 se4
 .
-"*/Pth_00056.lab"
+"*/Pth_00001.lab"
 rao2
 he2
 bian1
@@ -1213,7 +1213,7 @@ shi2
 liu4
 ren2
 .
-"*/Pth_00057.lab"
+"*/Pth_00001.lab"
 yi4
 jing1
 yi2
@@ -1232,7 +1232,7 @@ dai4
 mi2
 xin4
 .
-"*/Pth_00058.lab"
+"*/Pth_00001.lab"
 ga1
 cha2
 bei4
@@ -1252,7 +1252,7 @@ wen2
 ming2
 cun1
 .
-"*/Pth_00059.lab"
+"*/Pth_00001.lab"
 huo4
 de2
 nv3
@@ -1276,7 +1276,7 @@ ke4
 jin1
 na4
 .
-"*/Pth_00060.lab"
+"*/Pth_00001.lab"
 lao3
 shi1
 ye3
@@ -1296,7 +1296,7 @@ de5
 yao1
 bao1
 .
-"*/Pth_00061.lab"
+"*/Pth_00001.lab"
 dian3
 yan2
 he2
@@ -1319,7 +1319,7 @@ duo4
 cun2
 fang4
 .
-"*/Pth_00062.lab"
+"*/Pth_00001.lab"
 zha2
 kou3
 jian4
@@ -1339,7 +1339,7 @@ de5
 zha2
 kou3
 .
-"*/Pth_00063.lab"
+"*/Pth_00001.lab"
 lai4
 zheng4
 xiu4
@@ -1361,7 +1361,7 @@ liang3
 wan4
 yuan2
 .
-"*/Pth_00064.lab"
+"*/Pth_00001.lab"
 tie2
 gu3
 zhu4
@@ -1386,7 +1386,7 @@ wang2
 li4
 wu3
 .
-"*/Pth_00065.lab"
+"*/Pth_00001.lab"
 gai1
 xian4
 zai4
@@ -1405,7 +1405,7 @@ chan2
 pin3
 shang4
 .
-"*/Pth_00066.lab"
+"*/Pth_00001.lab"
 geng3
 jian4
 ting2
@@ -1424,7 +1424,7 @@ guo3
 zhuo2
 zhu4
 .
-"*/Pth_00067.lab"
+"*/Pth_00001.lab"
 qu1
 wei3
 shu1
@@ -1450,7 +1450,7 @@ le5
 shi2
 zhang1
 .
-"*/Pth_00068.lab"
+"*/Pth_00001.lab"
 zai4
 huan4
 zhe3
@@ -1474,7 +1474,7 @@ yao4
 gao1
 yao5
 .
-"*/Pth_00069.lab"
+"*/Pth_00001.lab"
 zhan3
 xian4
 chu1
@@ -1493,7 +1493,7 @@ de5
 gao1
 shan1
 .
-"*/Pth_00070.lab"
+"*/Pth_00001.lab"
 zhuan2
 kou3
 mao4
@@ -1518,7 +1518,7 @@ yao4
 yin1
 su4
 .
-"*/Pth_00071.lab"
+"*/Pth_00001.lab"
 zhe4
 zhi1
 shuai1
@@ -1538,7 +1538,7 @@ de5
 neng2
 li4
 .
-"*/Pth_00072.lab"
+"*/Pth_00001.lab"
 ba2
 sheng3
 nei4
@@ -1561,7 +1561,7 @@ zhi4
 hui1
 xia4
 .
-"*/Pth_00073.lab"
+"*/Pth_00001.lab"
 kun1
 ming2
 chuan2
@@ -1581,7 +1581,7 @@ le5
 ge5
 leng4
 .
-"*/Pth_00074.lab"
+"*/Pth_00001.lab"
 zen3
 ma5
 bu2
@@ -1604,7 +1604,7 @@ lei4
 xia4
 ne5
 .
-"*/Pth_00075.lab"
+"*/Pth_00001.lab"
 yu3
 san1
 jiang1
@@ -1626,7 +1626,7 @@ de5
 xie2
 yi4
 .
-"*/Pth_00076.lab"
+"*/Pth_00001.lab"
 ban4
 yan3
 chang2
@@ -1646,7 +1646,7 @@ wu2
 ke2
 ren3
 .
-"*/Pth_00077.lab"
+"*/Pth_00001.lab"
 fen2
 shao1
 shi2
@@ -1665,7 +1665,7 @@ zhai2
 gong1
 re4
 .
-"*/Pth_00078.lab"
+"*/Pth_00001.lab"
 zui2
 li3
 yi2
@@ -1685,7 +1685,7 @@ da2
 xie4
 xie5
 .
-"*/Pth_00079.lab"
+"*/Pth_00001.lab"
 you1
 zi4
 ji3
@@ -1706,7 +1706,7 @@ tou2
 za3
 ban4
 .
-"*/Pth_00080.lab"
+"*/Pth_00001.lab"
 er2
 zhao1
 zhi4
@@ -1732,7 +1732,7 @@ shen1
 bu4
 sui2
 .
-"*/Pth_00081.lab"
+"*/Pth_00001.lab"
 yi3
 gao1
 shang4
@@ -1754,7 +1754,7 @@ xin1
 yu2
 piao1
 .
-"*/Pth_00082.lab"
+"*/Pth_00001.lab"
 chi4
 feng1
 lu4
@@ -1773,7 +1773,7 @@ jin1
 da4
 lou2
 .
-"*/Pth_00083.lab"
+"*/Pth_00001.lab"
 kan4
 jian4
 huang2
@@ -1792,7 +1792,7 @@ wen2
 xiang1
 weir4
 .
-"*/Pth_00084.lab"
+"*/Pth_00001.lab"
 ling4
 yi2
 banr4
@@ -1813,7 +1813,7 @@ jing4
 cai1
 biao3
 .
-"*/Pth_00085.lab"
+"*/Pth_00001.lab"
 you2
 yu2
 zai4
@@ -1838,7 +1838,7 @@ bing4
 si4
 nve4
 .
-"*/Pth_00086.lab"
+"*/Pth_00001.lab"
 yi4
 nian2
 yi2
@@ -1864,7 +1864,7 @@ fang1
 che4
 zhou3
 .
-"*/Pth_00087.lab"
+"*/Pth_00001.lab"
 chan1
 za2
 zhe5
@@ -1889,7 +1889,7 @@ da4
 tong2
 li3
 .
-"*/Pth_00088.lab"
+"*/Pth_00001.lab"
 bi1
 po4
 ma3
@@ -1908,7 +1908,7 @@ ji3
 sa1
 huang3
 .
-"*/Pth_00089.lab"
+"*/Pth_00001.lab"
 bu4
 guan2
 mei3
@@ -1930,7 +1930,7 @@ gong1
 yu2
 fou3
 .
-"*/Pth_00090.lab"
+"*/Pth_00001.lab"
 qing2
 kuang4
 ke3
@@ -1954,7 +1954,7 @@ geng4
 bei1
 can3
 .
-"*/Pth_00091.lab"
+"*/Pth_00001.lab"
 si4
 shi5
 qi1
@@ -1975,7 +1975,7 @@ shang4
 mu4
 ma3
 .
-"*/Pth_00092.lab"
+"*/Pth_00001.lab"
 bu4
 neng2
 wei4
@@ -1999,7 +1999,7 @@ zhe1
 yan2
 yan3
 .
-"*/Pth_00093.lab"
+"*/Pth_00001.lab"
 ta1
 men5
 hai2
@@ -2020,7 +2020,7 @@ ming2
 jie2
 fei3
 .
-"*/Pth_00094.lab"
+"*/Pth_00001.lab"
 tong1
 guo4
 ta1
@@ -2042,7 +2042,7 @@ de5
 mei4
 mei5
 .
-"*/Pth_00095.lab"
+"*/Pth_00001.lab"
 liu2
 run4
 wei2
@@ -2066,7 +2066,7 @@ shi4
 cao2
 yuan1
 .
-"*/Pth_00096.lab"
+"*/Pth_00001.lab"
 ta1
 you4
 zhu3
@@ -2087,7 +2087,7 @@ gen1
 lin3
 tiao2
 .
-"*/Pth_00097.lab"
+"*/Pth_00001.lab"
 zhu4
 can2
 xiao3
@@ -2107,7 +2107,7 @@ bu4
 sao4
 zhou5
 .
-"*/Pth_00098.lab"
+"*/Pth_00001.lab"
 hao3
 shou4
 chen2
@@ -2130,7 +2130,7 @@ qi4
 bu4
 chuan3
 .
-"*/Pth_00099.lab"
+"*/Pth_00001.lab"
 hai2
 you3
 yi2
@@ -2155,7 +2155,7 @@ le5
 di1
 shang5
 .
-"*/Pth_00100.lab"
+"*/Pth_00001.lab"
 kuang2
 bao4
 de5
@@ -2177,7 +2177,7 @@ shi3
 ji4
 lu4
 .
-"*/Pth_00101.lab"
+"*/Pth_00001.lab"
 lou4
 pan4
 bi3
@@ -2196,7 +2196,7 @@ qiu2
 ji1
 hui4
 .
-"*/Pth_00102.lab"
+"*/Pth_00001.lab"
 shan1
 feng1
 xie2
@@ -2218,7 +2218,7 @@ wang3
 shang4
 cuan4
 .
-"*/Pth_00103.lab"
+"*/Pth_00001.lab"
 wo3
 de5
 nei4
@@ -2237,7 +2237,7 @@ long2
 xi1
 ji4
 .
-"*/Pth_00104.lab"
+"*/Pth_00001.lab"
 diu1
 diao4
 yi2
@@ -2257,7 +2257,7 @@ du4
 bu4
 xing2
 .
-"*/Pth_00105.lab"
+"*/Pth_00001.lab"
 sa3
 xue4
 han4
@@ -2279,7 +2279,7 @@ yu2
 suo3
 zuo4
 .
-"*/Pth_00106.lab"
+"*/Pth_00001.lab"
 zhao4
 shao4
 kai3
@@ -2301,7 +2301,7 @@ qi3
 lai2
 de5
 .
-"*/Pth_00107.lab"
+"*/Pth_00001.lab"
 jiu4
 shi4
 ben3
@@ -2322,7 +2322,7 @@ jin4
 da3
 ting5
 .
-"*/Pth_00108.lab"
+"*/Pth_00001.lab"
 zang4
 dong1
 gao1
@@ -2348,7 +2348,7 @@ dai4
 ke4
 ji1
 .
-"*/Pth_00109.lab"
+"*/Pth_00001.lab"
 liu2
 xia4
 de5
@@ -2371,7 +2371,7 @@ du1
 nang5
 sheng1
 .
-"*/Pth_00110.lab"
+"*/Pth_00001.lab"
 pa2
 chu1
 guo1
@@ -2397,7 +2397,7 @@ zhan3
 ji1
 yu4
 .
-"*/Pth_00111.lab"
+"*/Pth_00001.lab"
 dui4
 ying2
 li4
@@ -2419,7 +2419,7 @@ lei4
 zhi2
 dao3
 .
-"*/Pth_00112.lab"
+"*/Pth_00001.lab"
 jiang1
 ze2
 min2
@@ -2440,7 +2440,7 @@ chui2
 bu4
 xiu3
 .
-"*/Pth_00113.lab"
+"*/Pth_00001.lab"
 lao2
 bai3
 xing4
@@ -2462,7 +2462,7 @@ cha4
 rong2
 dong4
 .
-"*/Pth_00114.lab"
+"*/Pth_00001.lab"
 shen4
 zhi4
 you2
@@ -2481,7 +2481,7 @@ xie4
 yi2
 qi4
 .
-"*/Pth_00115.lab"
+"*/Pth_00001.lab"
 cong2
 guang3
 da4
@@ -2500,7 +2500,7 @@ shi4
 bian1
 zuan3
 .
-"*/Pth_00116.lab"
+"*/Pth_00001.lab"
 duo1
 zan5
 cai2
@@ -2519,7 +2519,7 @@ xiang1
 wei4
 ne5
 .
-"*/Pth_00117.lab"
+"*/Pth_00001.lab"
 zhe4
 zhong2
 yuan3
@@ -2540,7 +2540,7 @@ neng2
 chu4
 mo1
 .
-"*/Pth_00118.lab"
+"*/Pth_00001.lab"
 jue2
 xin1
 ba3
@@ -2564,7 +2564,7 @@ li4
 fu4
 rao2
 .
-"*/Pth_00119.lab"
+"*/Pth_00001.lab"
 zhang2
 guan3
 guo2
@@ -2590,7 +2590,7 @@ zhang3
 long2
 gai4
 .
-"*/Pth_00120.lab"
+"*/Pth_00001.lab"
 nu3
 qiao2
 ma3
@@ -2613,7 +2613,7 @@ de5
 yi2
 piao4
 .
-"*/Pth_00121.lab"
+"*/Pth_00001.lab"
 zhe4
 jiu4
 yi4
@@ -2636,7 +2636,7 @@ de5
 ben2
 ti3
 .
-"*/Pth_00122.lab"
+"*/Pth_00001.lab"
 zhe4
 hui2
 zong2
@@ -2659,7 +2659,7 @@ yan2
 hua4
 ba5
 .
-"*/Pth_00123.lab"
+"*/Pth_00001.lab"
 lao3
 bian1
 ta1
@@ -2678,7 +2678,7 @@ da4
 you2
 tian2
 .
-"*/Pth_00124.lab"
+"*/Pth_00001.lab"
 gui3
 dao4
 heng2
@@ -2699,7 +2699,7 @@ zhe5
 yan3
 jing5
 .
-"*/Pth_00125.lab"
+"*/Pth_00001.lab"
 dao4
 zhi1
 shi5
@@ -2724,7 +2724,7 @@ la1
 jia1
 chang2
 .
-"*/Pth_00126.lab"
+"*/Pth_00001.lab"
 jue2
 bu4
 neng2
@@ -2747,7 +2747,7 @@ zuan1
 jin4
 lai2
 .
-"*/Pth_00127.lab"
+"*/Pth_00001.lab"
 zhong1
 gong4
 e4
@@ -2772,7 +2772,7 @@ zheng1
 ru4
 shan3
 .
-"*/Pth_00128.lab"
+"*/Pth_00001.lab"
 mei2
 neng2
 ding3
@@ -2791,7 +2791,7 @@ heng4
 jin4
 gong1
 .
-"*/Pth_00129.lab"
+"*/Pth_00001.lab"
 niang2
 jin1
 tian1
@@ -2817,7 +2817,7 @@ gao1
 pao4
 lv3
 .
-"*/Pth_00130.lab"
+"*/Pth_00001.lab"
 lang2
 lang3
 de5
@@ -2837,7 +2837,7 @@ kong1
 dang4
 qi3
 .
-"*/Pth_00131.lab"
+"*/Pth_00001.lab"
 jing2
 kou3
 ping2
@@ -2861,7 +2861,7 @@ she4
 wan2
 bi4
 .
-"*/Pth_00132.lab"
+"*/Pth_00001.lab"
 zhao2
 zhun3
 le5
@@ -2881,7 +2881,7 @@ zhu3
 xuan2
 lv4
 .
-"*/Pth_00133.lab"
+"*/Pth_00001.lab"
 xie3
 zi4
 jian1
@@ -2903,7 +2903,7 @@ jian1
 fang1
 ge2
 .
-"*/Pth_00134.lab"
+"*/Pth_00001.lab"
 ting1
 zhe5
 zhong1
@@ -2922,7 +2922,7 @@ de5
 sheng1
 yin1
 .
-"*/Pth_00135.lab"
+"*/Pth_00001.lab"
 cou4
 zu2
 liang3
@@ -2944,7 +2944,7 @@ zhu4
 cang2
 ku4
 .
-"*/Pth_00136.lab"
+"*/Pth_00001.lab"
 xiang4
 xing1
 yao4
@@ -2968,7 +2968,7 @@ de5
 zhu4
 zuo4
 .
-"*/Pth_00137.lab"
+"*/Pth_00001.lab"
 xin4
 zhong1
 shuo1
@@ -2993,7 +2993,7 @@ de5
 li2
 xiang3
 .
-"*/Pth_00138.lab"
+"*/Pth_00001.lab"
 fa1
 jue2
 chu1
@@ -3018,7 +3018,7 @@ liu2
 fa3
 tie4
 .
-"*/Pth_00139.lab"
+"*/Pth_00001.lab"
 luo2
 bei4
 shang4
@@ -3037,7 +3037,7 @@ de5
 shu4
 miao2
 .
-"*/Pth_00140.lab"
+"*/Pth_00001.lab"
 han2
 sha1
 er2
@@ -3057,7 +3057,7 @@ de5
 xuan2
 dong4
 .
-"*/Pth_00141.lab"
+"*/Pth_00001.lab"
 shan2
 shan3
 qing1
@@ -3082,7 +3082,7 @@ yuan2
 shan1
 mao3
 .
-"*/Pth_00142.lab"
+"*/Pth_00001.lab"
 dian4
 shi4
 li3
@@ -3102,7 +3102,7 @@ qi4
 chong1
 chong1
 .
-"*/Pth_00143.lab"
+"*/Pth_00001.lab"
 tai4
 guo2
 wei4
@@ -3127,7 +3127,7 @@ shou4
 cai2
 wu4
 .
-"*/Pth_00144.lab"
+"*/Pth_00001.lab"
 meng3
 zu2
 xue2
@@ -3149,7 +3149,7 @@ da4
 fu4
 xiao3
 .
-"*/Pth_00145.lab"
+"*/Pth_00001.lab"
 a1
 la1
 mu4
@@ -3168,7 +3168,7 @@ dian3
 de5
 kou1
 .
-"*/Pth_00146.lab"
+"*/Pth_00001.lab"
 hai2
 jiang1
 sheng4
@@ -3189,7 +3189,7 @@ yang3
 sheng1
 kou5
 .
-"*/Pth_00147.lab"
+"*/Pth_00001.lab"
 jian4
 yu2
 qian2
@@ -3209,7 +3209,7 @@ de5
 jiao4
 xun5
 .
-"*/Pth_00148.lab"
+"*/Pth_00001.lab"
 xia2
 qu1
 can1
@@ -3229,7 +3229,7 @@ wu3
 shi2
 liu4
 .
-"*/Pth_00149.lab"
+"*/Pth_00001.lab"
 zhi3
 shi4
 jiang1
@@ -3248,7 +3248,7 @@ mian3
 qian4
 tuo3
 .
-"*/Pth_00150.lab"
+"*/Pth_00001.lab"
 jiong3
 po4
 zhong1
@@ -3269,7 +3269,7 @@ chi1
 shao3
 he1
 .
-"*/Pth_00151.lab"
+"*/Pth_00001.lab"
 ta1
 zhun1
 zhun1
@@ -3295,7 +3295,7 @@ qing1
 ji4
 su2
 .
-"*/Pth_00152.lab"
+"*/Pth_00001.lab"
 qi2
 zhong1
 gei3
@@ -3318,7 +3318,7 @@ xiu1
 xie2
 jiang4
 .
-"*/Pth_00153.lab"
+"*/Pth_00001.lab"
 hu2
 die2
 bu4
@@ -3339,7 +3339,7 @@ de5
 ai4
 qing2
 .
-"*/Pth_00154.lab"
+"*/Pth_00001.lab"
 wang4
 zhe5
 wu2
@@ -3360,7 +3360,7 @@ de5
 fan2
 rong2
 .
-"*/Pth_00155.lab"
+"*/Pth_00001.lab"
 ta2
 ding3
 zhuang1
@@ -3381,7 +3381,7 @@ shu3
 bao2
 san3
 .
-"*/Pth_00156.lab"
+"*/Pth_00001.lab"
 cuo1
 shang1
 cheng2
@@ -3404,7 +3404,7 @@ huan2
 shi2
 er4
 .
-"*/Pth_00157.lab"
+"*/Pth_00001.lab"
 pu4
 bu4
 bian1
@@ -3428,7 +3428,7 @@ de5
 tong2
 xiang4
 .
-"*/Pth_00158.lab"
+"*/Pth_00001.lab"
 ying1
 mei3
 wei2
@@ -3454,7 +3454,7 @@ de5
 zheng1
 chao3
 .
-"*/Pth_00159.lab"
+"*/Pth_00001.lab"
 dan4
 zao1
 dao4
@@ -3474,7 +3474,7 @@ de5
 zu3
 nao2
 .
-"*/Pth_00160.lab"
+"*/Pth_00001.lab"
 ying1
 guo2
 gai3
@@ -3494,7 +3494,7 @@ de5
 li4
 chang3
 .
-"*/Pth_00161.lab"
+"*/Pth_00001.lab"
 bu2
 yao4
 zhi3
@@ -3514,7 +3514,7 @@ de5
 ku2
 guo3
 .
-"*/Pth_00162.lab"
+"*/Pth_00001.lab"
 fen3
 sui4
 le5
@@ -3534,7 +3534,7 @@ he2
 qing1
 xiang1
 .
-"*/Pth_00163.lab"
+"*/Pth_00001.lab"
 fan3
 dui4
 zi1
@@ -3559,7 +3559,7 @@ gan3
 yu2
 chuang3
 .
-"*/Pth_00164.lab"
+"*/Pth_00001.lab"
 ta1
 jiang3
 cong2
@@ -3580,7 +3580,7 @@ wu4
 shi4
 zuo3
 .
-"*/Pth_00165.lab"
+"*/Pth_00001.lab"
 cheng2
 wu3
 shi2
@@ -3600,7 +3600,7 @@ che1
 fan3
 xu2
 .
-"*/Pth_00166.lab"
+"*/Pth_00001.lab"
 tao3
 zhai4
 zhi1
@@ -3620,7 +3620,7 @@ xiang4
 yi4
 pie1
 .
-"*/Pth_00167.lab"
+"*/Pth_00001.lab"
 ta1
 de5
 zhe2
@@ -3639,7 +3639,7 @@ dou4
 zuo4
 yong4
 .
-"*/Pth_00168.lab"
+"*/Pth_00001.lab"
 yang1
 ji2
 zai4
@@ -3660,7 +3660,7 @@ tu2
 shu1
 guan3
 .
-"*/Pth_00169.lab"
+"*/Pth_00001.lab"
 can3
 tong4
 de5
@@ -3684,7 +3684,7 @@ de5
 dao4
 lu5
 .
-"*/Pth_00170.lab"
+"*/Pth_00001.lab"
 pao1
 qi4
 le5
